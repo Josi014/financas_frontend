@@ -31,7 +31,7 @@ function Tabela() {
                 <Table striped bordered hover responsive>
                     <thead>
                         <tr>
-                            <th>Ações</th>
+                            {/* <th>Ações</th> */}
                             <th>ID</th>
                             <th>Descrição</th>
                         </tr>
